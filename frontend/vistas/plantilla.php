@@ -1,0 +1,1 @@
+<h1>la plantilla del frontend funciona correctamente</h1>
